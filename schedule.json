@@ -1,0 +1,80 @@
+[
+  {
+    "title_event": "LIVE: 55 MINUTOS",
+    "dates_event": [
+      {
+        "day": "15/10",
+        "hours": "18:55",
+        "Local": "Facebook",
+        "theme": "Saúde",
+        "guests": "Rosinha Bolachinha, Michelle"
+      },
+      {
+        "day": "22/10",
+        "hours": "18:55",
+        "Local": "Facebook",
+        "theme": "Educação",
+        "guests": "Joseilson, Josenildo, Junior Andrade"
+      },
+      {
+        "day": "29/10",
+        "hours": "18:55",
+        "Local": "Facebook",
+        "theme": "Esporte, Lazer, Cultura e Turismo",
+        "guests": "Raimunda, Felipe, Cristiano"
+      }
+    ]
+  },
+  {
+    "title_event": "REUNIÕES TEMÁTICAS DO 55",
+    "dates_event": [
+      {
+        "day": "17/10",
+        "hours": "18:55",
+        "Local": "No galpão da antiga fábrica de costura",
+        "theme": "Dialogando com a Juventude",
+        "guests": "Rosinha Bolachinha, Michelle"
+      },
+      {
+        "day": "Definir",
+        "hours": "Definir",
+        "Local": "Definir",
+        "theme": "Dialogando com as mulheres",
+        "guests": "Definir"
+      }
+    ]
+  },
+  {
+    "title_event": "RODA DE CONVERSA NA COMUNIDADE",
+    "dates_event": [
+      {
+        "day": "18/10",
+        "hours": "14:55",
+        "Local": "Sítio Caiçara",
+        "theme": "Bate papo",
+        "guests": "Comunidade"
+      },
+      {
+        "day": "25/10",
+        "hours": "14:55",
+        "Local": "Serra do Sítio",
+        "theme": "Bate papo",
+        "guests": "Comunidade"
+      },
+      {
+        "day": "01/11",
+        "hours": "14:55",
+        "Local": "Sítio Lagoa do Braz",
+        "theme": "Bate papo",
+        "guests": "Comunidade"
+      },
+      {
+        "day": "08/11",
+        "hours": "14:55",
+        "Local": "Sitio Cozinha",
+        "theme": "Bate papo",
+        "guests": "Comunidade"
+      }
+    ]
+  }
+]
