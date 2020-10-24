@@ -1,7 +1,7 @@
 [
   {
     "id":1,
-    "title_event": "LIVE: 55 MINUTOS COM JUSTINO",
+    "title_event": "LIVE: 55 MINUTOS",
     "dates_event": [
       {
         "id":1,
@@ -43,11 +43,11 @@
       },
       {
         "id":2,
-        "day": "Definir",
-        "hours": "Definir",
-        "Local": "Definir",
+        "day": "24/10",
+        "hours": "18:55",
+        "Local": "Dialogando com as mulheres - Antiga casa de Manoel de Arnô",
         "theme": "Dialogando com as mulheres",
-        "guests": "Definir"
+        "guests": "População"
       }
     ]
   },
