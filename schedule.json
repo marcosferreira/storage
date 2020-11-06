@@ -5,23 +5,7 @@
     "dates_event": [
       {
         "id":1,
-        "day": "15/10",
-        "hours": "18:55",
-        "Local": "Facebook",
-        "theme": "Saúde",
-        "guests": "Rosinha Bolachinha, Michelle"
-      },
-      {
-        "id":2,
-        "day": "22/10",
-        "hours": "18:55",
-        "Local": "Facebook",
-        "theme": "Educação",
-        "guests": "Joseilson, Josenildo, Junior Andrade"
-      },
-      {
-        "id":3,
-        "day": "29/10",
+        "day": "05/11",
         "hours": "18:55",
         "Local": "Facebook",
         "theme": "Esporte, Lazer, Cultura e Turismo",
@@ -31,61 +15,39 @@
   },
   {
     "id":2,
-    "title_event": "REUNIÕES TEMÁTICAS DO 55",
+    "title_event": "VISITAS",
     "dates_event": [
       {
         "id":1,
-        "day": "17/10",
-        "hours": "18:55",
-        "Local": "No galpão da antiga fábrica de costura",
+        "day": "07/11",
+        "hours": "07:55",
+        "Local": "Feira Livre",
         "theme": "Dialogando com a Juventude",
         "guests": "Rosinha Bolachinha, Michelle"
       },
       {
         "id":2,
-        "day": "24/10",
-        "hours": "18:55",
-        "Local": "Dialogando com as mulheres - Antiga casa de Manoel de Arnô",
-        "theme": "Dialogando com as mulheres",
-        "guests": "População"
-      }
-    ]
-  },
-  {
-    "id":3,
-    "title_event": "RODA DE CONVERSA NA COMUNIDADE",
-    "dates_event": [
-      {
-        "id":1,
-        "day": "18/10",
+        "day": "07/11",
         "hours": "14:55",
-        "Local": "Sítio Caiçara",
-        "theme": "Bate papo",
-        "guests": "Comunidade"
+        "Local": "Lagoa do Brás",
+        "theme": "Dialogando com a Juventude",
+        "guests": "Rosinha Bolachinha, Michelle"
       },
-      {
-        "id":2,
-        "day": "25/10",
-        "hours": "14:55",
-        "Local": "Serra do Sítio",
-        "theme": "Bate papo",
-        "guests": "Comunidade"
-      },
-      {
+       {
         "id":3,
-        "day": "01/11",
-        "hours": "14:55",
-        "Local": "Sítio Lagoa do Braz",
-        "theme": "Bate papo",
-        "guests": "Comunidade"
+        "day": "08/11",
+        "hours": "09:55",
+        "Local": "Sítio Pimenta",
+        "theme": "Dialogando com a Juventude",
+        "guests": "Rosinha Bolachinha, Michelle"
       },
-      {
+       {
         "id":4,
         "day": "08/11",
         "hours": "14:55",
-        "Local": "Sitio Cozinha",
-        "theme": "Bate papo",
-        "guests": "Comunidade"
+        "Local": "Sítio Cozinha",
+        "theme": "Dialogando com a Juventude",
+        "guests": "Rosinha Bolachinha, Michelle"
       }
     ]
   }
